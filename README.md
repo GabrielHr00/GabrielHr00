@@ -51,12 +51,9 @@
 
 ### 
 
-### 📈 Statistics about my work:</br>
-
-<br/>
-<a href="https://github.com/AVS1508">
+### 📈 Statistic:
+<a href="https://github.com/GabrielHr00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHr00&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHr00&theme=buefy&layout=compact" />
 </a>
 <br/>
 
