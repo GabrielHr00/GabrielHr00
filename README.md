@@ -7,27 +7,60 @@
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 <br />
+
+## 
   
-### I know more about:</br>
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![Scala](https://img.shields.io/badge/-Scala-000000?style=for-the-badge&logo=Scala)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
- etc.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at University of Vienna.
+- 💼 &nbsp; Currently looking for a nice company as junior developer.
+- 🌱 &nbsp; Learning more about App Developing, Cybersecurity and 3D Modelling.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=276DC3)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+    ...
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+    ...
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
+    ...
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+    ...
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intelliJ-ide&logoColor=2C2255)
+  ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio-ide&logoColor=2C2255)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity-ide&logoColor=2C2255)
+   ...
 
 ### 
 
-<samp>
-    <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Some Statistics about my work here:</a></b>
-</samp>
+### 📈 Statistics about my work:</br>
 
-### 
+<br/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHr00&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHr00&theme=buefy&layout=compact" />
+</a>
+<br/>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=GabrielHr00&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
+## 
 
 <p align="center">
     <a href="https://www.facebook.com/gabriel.hristov.562" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
