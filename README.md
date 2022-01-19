@@ -22,6 +22,7 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio&logoColor=276DC3)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=276DC3)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
