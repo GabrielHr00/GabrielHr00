@@ -1,4 +1,15 @@
 <p align="center">
+    <a href="https://www.facebook.com/gabriel.hristov.562" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
+  <a href="https://www.instagram.com/gabrielhristovv" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/gabriel-hristov-399533230" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="mailto:gabrielhristov1207@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+    <a href="https://whatsapp.com/+436642212131" alt="Whatsapp"><img src="https://user-images.githubusercontent.com/84074078/148945345-d92f84c4-7c62-469f-b2f6-303ee0f95389.png" height="30" width="40"></a>   
+    <a href="https://twitter.com/" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>   
+</p>
+
+## 
+
+<p align="center">
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Gabriel</a></b>.
@@ -57,14 +68,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHr00&theme=buefy&show_icons=true" />
 </a>
 <br/>
-
-## 
-
-<p align="center">
-    <a href="https://www.facebook.com/gabriel.hristov.562" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-  <a href="https://www.instagram.com/gabrielhristovv" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-    <a href="https://whatsapp.com/+436642212131" alt="Whatsapp"><img src="https://user-images.githubusercontent.com/84074078/148945345-d92f84c4-7c62-469f-b2f6-303ee0f95389.png" height="30" width="40"></a>   
-    <a href="https://twitter.com/" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>   
-    <a href="mailto:gabrielhristov1207@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-    <a href="https://www.linkedin.com/in/gabriel-hristov-399533230" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-</p>
