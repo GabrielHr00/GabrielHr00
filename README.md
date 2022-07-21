@@ -10,7 +10,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Gabriel</a></b>.
+    Hello there! I'm Gabriel.
     <br>I'm a Computer Engineering Student and Enthusiast from Bulgaria/Austria.<br>
   </samp>
 
@@ -22,8 +22,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Vienna.
-- 💼 &nbsp; Currently looking for a nice company as junior developer.
+- 🎓 &nbsp; Studying Computer Science at University of Vienna and Java Programmin at SoftUni Bulgaria.
 - 🌱 &nbsp; Learning more about App Developing, Cybersecurity and 3D Modelling.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
