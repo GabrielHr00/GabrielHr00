@@ -23,7 +23,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of Vienna and Java Programmin at SoftUni Bulgaria.
-- 🌱 &nbsp; Learning more about App Developing, Cybersecurity and 3D Modelling.
+- 🌱 &nbsp; Currently working and growing in the IT Security/Cybersecurity sphere.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
