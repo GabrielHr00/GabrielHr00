@@ -21,7 +21,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Vienna and Java Programmin at SoftUni Bulgaria.
+- 🎓 &nbsp; Studying Computer Science at University of Vienna and Java Programming at SoftUni Bulgaria.
 - 🌱 &nbsp; Currently working and growing in the IT Security/Cybersecurity sphere.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
