@@ -10,7 +10,7 @@
   <br>
   <samp>
     Hello there! I'm Gabriel.
-    <br>I'm a Computer Engineering Student and Enthusiast from Bulgaria/Austria.<br>
+    <br>I'm a Computer Science Student and IT Security Enthusiast from Bulgaria/Austria.<br>
   </samp>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
