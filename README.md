@@ -10,7 +10,7 @@
   <br>
   <samp>
     Hello there! I'm Gabriel.
-    <br>I'm a Computer Science Student and IT Security Enthusiast from Bulgaria/Austria.<br>
+    <br>I'm a Bachelor of Computer Science and IT Security Enthusiast from Bulgaria/Austria.<br>
   </samp>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
@@ -21,7 +21,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Vienna and Java Programming at SoftUni Bulgaria.
+- 🎓 &nbsp; Bachelor of Computer Science at University of Vienna and Java Technical Trainer at SoftUni Bulgaria.
 - 🌱 &nbsp; Currently working and growing in the IT Security/Cybersecurity sphere.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
