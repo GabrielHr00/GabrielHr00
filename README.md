@@ -10,7 +10,7 @@
   <br>
   <samp>
     Hello there! I'm Gabriel.
-    <br>I'm a Bachelor of Computer Science and Cybersecurity Enthusiast from Bulgaria/Austria.<br>
+    <br>I am a Cybersecurity Consultant and Engineer and I help financial institutions strengthen their security posture and authenticate better.<br>
   </samp>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
